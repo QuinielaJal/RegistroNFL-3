@@ -7,7 +7,7 @@
 
 .quiniela{
     margin: auto;
-    background-image: url("https://scontent.fgdl5-1.fna.fbcdn.net/v/t1.15752-9/120041100_662585081348703_3793645215472860248_n.png?_nc_cat=108&_nc_sid=ae9488&_nc_ohc=uHcnI_iZ5i4AX_gAs0C&_nc_ht=scontent.fgdl5-1.fna&oh=9b4b3b011e51f967170dada3b087a871&oe=5F8E6B58");
+    background-image: url("https://scontent.fgdl9-1.fna.fbcdn.net/v/t1.15752-9/120159109_715643255688022_7875188925694892361_n.png?_nc_cat=106&_nc_sid=ae9488&_nc_ohc=nx6D789ujIsAX86IRsC&_nc_ht=scontent.fgdl9-1.fna&oh=db76c0aef643b976730ff96b46459893&oe=5F993EFD");
     background-size: 100%;
     background-repeat: no-repeat;
     max-width: 400px;
@@ -80,8 +80,8 @@ h1{
     margin-top: 6%;
     border: solid 1px black;
     border-radius: 0 0 20px 20px;
-    background: -webkit-linear-gradient(0, black,rgb(0,102,3) 50%);
-    background: linear-gradient(0, black,rgb(0,102,3) 50%);
+    background: -webkit-linear-gradient(0, black,rgb(10,10,10) 50%);
+    background: linear-gradient(0, black,rgb(10,10,10) 50%);
     font-size: larger;
 }
 
